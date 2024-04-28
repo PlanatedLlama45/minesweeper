@@ -1,1 +1,1 @@
-# minesweeper
+# Minesweeper v1.0.0
